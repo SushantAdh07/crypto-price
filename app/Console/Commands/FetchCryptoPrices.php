@@ -29,7 +29,7 @@ class FetchCryptoPrices extends Command
      * Execute the console command.
      */
     public function handle(): void {
-        $this->cryptoService->fetchAndStorePrices();
+        $this->cryptoService->storePrices();
         $this->info('Cryptocurrency prices updated successfully.');
     }
 }
