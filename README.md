@@ -4,6 +4,10 @@ Welcome to my app! Below is a screenshot of the application:
 
 ![App Screenshot](public/images/prices.png)
 
+The image show the prices of two cryptocurrencies and we can update the prices by clicking on "Fetch Latest Prices" button. It will also update the data in database.
+
+![Database Screenshot](public/images/database.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
